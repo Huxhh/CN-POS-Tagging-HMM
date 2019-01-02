@@ -1,5 +1,6 @@
 # CN-POS-Tagging-HMM
 Chinese pos tagging by Hidden Markov Model
+基于隐马尔科夫模型的中文词性标注
 
 ## Experiment
 You can see some simple train and test experimental datas in the folder data.  
