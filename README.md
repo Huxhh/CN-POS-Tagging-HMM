@@ -1,5 +1,5 @@
 # CN-POS-Tagging-HMM
-Chinese pos tagging by Hidden Markov Model
+Chinese pos tagging by Hidden Markov Model  
 基于隐马尔科夫模型的中文词性标注
 
 ## Experiment
